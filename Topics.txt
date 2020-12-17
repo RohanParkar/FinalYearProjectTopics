@@ -1,5 +1,0 @@
-TOPIC 1 : ChatBot For College Enquiry
-Link    : - https://ieeexplore.ieee.org/document/8822176
-
-TOPIC 2 : Movie Recommendation System Using Collaborative Filtering
-Link    : - https://ieeexplore.ieee.org/document/8663822
